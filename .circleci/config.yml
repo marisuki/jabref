@@ -15,9 +15,8 @@ jobs:
           paths:
             - "~/downloads"
             - "~/.install4j7"
-    filters:
-      tags:
-        only: /.*/
+    tags:
+      only: /.*/
 
   buildDev:
     docker:
