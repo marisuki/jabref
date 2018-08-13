@@ -84,7 +84,7 @@ We refer to [GitHub issues](https://github.com/JabRef/jabref/issues) by using `#
   - Set/clear/append/rename fields: available through Edit menu
   - Manage keywords: available through Edit menu
   - Copy linked files to folder: available through File menu
-- We removed the old logic of Replace String dialog (one file), instead, add JavaFX style dialog to cover the old function.
+
 
 
 
